@@ -15,7 +15,7 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
-    "pug": "^2.0.3",
+    "pug": "^3.0.4",
     "spotify-web-api-node": "^4.0.0",
     "url": "^0.11.0"
   },
